@@ -1,0 +1,59 @@
+.first{
+    width: 30px;
+    height: 33px;
+    margin-right: 5px;
+}
+h3{
+    font-size: 1.7em;
+    display: flex;
+}
+body{
+    font-family: 'Merriweather', serif;
+}
+.one {
+    background: rgba(0, 255, 115, 0.315);
+    border: 0px solid red;
+    border-radius: 20px;
+    padding: 1px 15px;
+}
+.two {
+    background: rgba(195, 0, 255, 0.315);
+    border: 0px solid red;
+    border-radius: 20px;
+    padding: 1px 15px;
+}
+.three {
+    background: rgba(255, 166, 0, 0.315);
+    border: 0px solid red;
+    border-radius: 20px;
+    padding: 1px 15px;
+}
+.four {
+    background: rgba(0, 225, 255, 0.315);
+    border: 0px solid red;
+    border-radius: 20px;
+    padding: 1px 15px;
+}
+p {
+    color: gray;
+}
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+nav{
+    background: rgb(68, 68, 68);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.link {
+    color: rgb(10, 220, 248);
+    border: 1px solid lightblue;
+    border-radius: 5px;
+    padding: 0px 5px;
+}
